@@ -2,11 +2,15 @@ Transporte = 60,00
 
 luz = 100,00
 
+agua = 50
+
+celular = 50
+
 internet = 100,00
 
 faculdade = 2.045,00
 
-totalDespesas = 2.305,00
+totalDespesas = 2.405,00
 
 diasSemana = 5
 
@@ -14,16 +18,16 @@ HorasDia = 6
 
 TotalHorasMes = 132
 
-HoraTecnica = 2.305 / 132 = 17,46
+HoraTecnica = 2.405 / 132 = 18,21
 
 lucro = 30%
 
-HoraFinal = 17,46 + 30% = 22,70
+HoraFinal = 17,46 + 30% = 23,67
 
 MesesTrabalhados = 9
 
 TotalHoras = 132 * 9 = 1.188
 
-ValorFinal = 1.188 * 22,70 = 26.967,6
+ValorFinal = 1.188 * 23,67 = 28.119,96
 
 salarioMes = 22,70 * 160 = 3.632
